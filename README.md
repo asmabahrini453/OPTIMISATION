@@ -1,8 +1,5 @@
 # Projet d'optimisation : LASSO, SVM et EM (mélange de gaussiennes)
 
-**Auteur :** [Votre nom] — [Formation / numéro étudiant]
-**Cours :** [Intitulé du cours] — [Année universitaire]
-
 ## Objet du projet
 
 Ce projet étudie trois problèmes d'optimisation à partir de la lecture 4 et de la lecture 19 d'EE227C :
